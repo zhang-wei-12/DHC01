@@ -1,0 +1,15 @@
+.\objects\queue.o: ..\Elab\3rd\FreeRTOS\queue.c
+.\objects\queue.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\queue.o: D:\MDK533\ARM\ARMCC\Bin\..\include\string.h
+.\objects\queue.o: ..\Elab\3rd\FreeRTOS\include\FreeRTOS.h
+.\objects\queue.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\queue.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\queue.o: ..\User\config\FreeRTOSConfig.h
+.\objects\queue.o: ..\Elab\3rd\FreeRTOS\include\projdefs.h
+.\objects\queue.o: ..\Elab\3rd\FreeRTOS\include\portable.h
+.\objects\queue.o: ..\Elab\3rd\FreeRTOS\include\deprecated_definitions.h
+.\objects\queue.o: ..\Elab\3rd\FreeRTOS\port\RVDS\ARM_CM4F\portmacro.h
+.\objects\queue.o: ..\Elab\3rd\FreeRTOS\include\mpu_wrappers.h
+.\objects\queue.o: ..\Elab\3rd\FreeRTOS\include\task.h
+.\objects\queue.o: ..\Elab\3rd\FreeRTOS\include\list.h
+.\objects\queue.o: ..\Elab\3rd\FreeRTOS\include\queue.h

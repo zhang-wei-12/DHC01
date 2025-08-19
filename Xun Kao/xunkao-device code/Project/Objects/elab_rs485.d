@@ -1,0 +1,16 @@
+.\objects\elab_rs485.o: ..\Elab\edf\user\elab_rs485.c
+.\objects\elab_rs485.o: ..\Elab\edf\user\elab_rs485.h
+.\objects\elab_rs485.o: ..\Elab\edf\user\../elab_device.h
+.\objects\elab_rs485.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\elab_rs485.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\elab_rs485.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\elab_rs485.o: ..\Elab\edf\user\../../common/elab_def.h
+.\objects\elab_rs485.o: ..\User\config\elab_config.h
+.\objects\elab_rs485.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\elab_rs485.o: ..\Elab\edf\user\../../os/cmsis_os.h
+.\objects\elab_rs485.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\elab_rs485.o: ..\Elab\edf\user\../../common/elab_log.h
+.\objects\elab_rs485.o: ..\Elab\edf\user\../../common/elab_assert.h
+.\objects\elab_rs485.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\elab_rs485.o: ..\Elab\edf\user\../normal/elab_serial.h
+.\objects\elab_rs485.o: ..\Elab\edf\user\../normal/elab_pin.h
