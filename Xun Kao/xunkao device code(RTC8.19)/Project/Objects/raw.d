@@ -1,0 +1,14 @@
+.\objects\raw.o: ..\Elab\3rd\LwIP\core\raw.c
+.\objects\raw.o: ..\Elab\3rd\LwIP\include\lwip/opt.h
+.\objects\raw.o: ..\User\arch\lwipopts.h
+.\objects\raw.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\raw.o: ..\Elab\3rd\LwIP\include\lwip/debug.h
+.\objects\raw.o: ..\Elab\3rd\LwIP\include\lwip/arch.h
+.\objects\raw.o: ..\User\arch/cc.h
+.\objects\raw.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\raw.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\raw.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\raw.o: D:\MDK533\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\raw.o: D:\MDK533\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\raw.o: D:\MDK533\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\raw.o: ..\Elab\3rd\LwIP\include\lwip/opt.h

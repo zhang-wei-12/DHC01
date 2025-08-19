@@ -1,0 +1,16 @@
+.\objects\def.o: ..\Elab\3rd\LwIP\core\def.c
+.\objects\def.o: ..\Elab\3rd\LwIP\include\lwip/opt.h
+.\objects\def.o: ..\User\arch\lwipopts.h
+.\objects\def.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\def.o: ..\Elab\3rd\LwIP\include\lwip/debug.h
+.\objects\def.o: ..\Elab\3rd\LwIP\include\lwip/arch.h
+.\objects\def.o: ..\User\arch/cc.h
+.\objects\def.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\def.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\def.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\def.o: D:\MDK533\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\def.o: D:\MDK533\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\def.o: D:\MDK533\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\def.o: ..\Elab\3rd\LwIP\include\lwip/opt.h
+.\objects\def.o: ..\Elab\3rd\LwIP\include\lwip/def.h
+.\objects\def.o: D:\MDK533\ARM\ARMCC\Bin\..\include\string.h

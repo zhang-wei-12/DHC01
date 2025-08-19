@@ -1,0 +1,14 @@
+.\objects\altcp_tcp.o: ..\Elab\3rd\LwIP\core\altcp_tcp.c
+.\objects\altcp_tcp.o: ..\Elab\3rd\LwIP\include\lwip/opt.h
+.\objects\altcp_tcp.o: ..\User\arch\lwipopts.h
+.\objects\altcp_tcp.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\altcp_tcp.o: ..\Elab\3rd\LwIP\include\lwip/debug.h
+.\objects\altcp_tcp.o: ..\Elab\3rd\LwIP\include\lwip/arch.h
+.\objects\altcp_tcp.o: ..\User\arch/cc.h
+.\objects\altcp_tcp.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\altcp_tcp.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\altcp_tcp.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\altcp_tcp.o: D:\MDK533\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\altcp_tcp.o: D:\MDK533\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\altcp_tcp.o: D:\MDK533\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\altcp_tcp.o: ..\Elab\3rd\LwIP\include\lwip/opt.h

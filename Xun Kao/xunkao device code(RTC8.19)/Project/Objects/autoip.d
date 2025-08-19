@@ -1,0 +1,14 @@
+.\objects\autoip.o: ..\Elab\3rd\LwIP\core\ipv4\autoip.c
+.\objects\autoip.o: ..\Elab\3rd\LwIP\include\lwip/opt.h
+.\objects\autoip.o: ..\User\arch\lwipopts.h
+.\objects\autoip.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\autoip.o: ..\Elab\3rd\LwIP\include\lwip/debug.h
+.\objects\autoip.o: ..\Elab\3rd\LwIP\include\lwip/arch.h
+.\objects\autoip.o: ..\User\arch/cc.h
+.\objects\autoip.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\autoip.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\autoip.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\autoip.o: D:\MDK533\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\autoip.o: D:\MDK533\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\autoip.o: D:\MDK533\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\autoip.o: ..\Elab\3rd\LwIP\include\lwip/opt.h

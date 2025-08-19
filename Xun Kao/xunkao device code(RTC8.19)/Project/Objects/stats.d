@@ -1,0 +1,14 @@
+.\objects\stats.o: ..\Elab\3rd\LwIP\core\stats.c
+.\objects\stats.o: ..\Elab\3rd\LwIP\include\lwip/opt.h
+.\objects\stats.o: ..\User\arch\lwipopts.h
+.\objects\stats.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\stats.o: ..\Elab\3rd\LwIP\include\lwip/debug.h
+.\objects\stats.o: ..\Elab\3rd\LwIP\include\lwip/arch.h
+.\objects\stats.o: ..\User\arch/cc.h
+.\objects\stats.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\stats.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\stats.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stats.o: D:\MDK533\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\stats.o: D:\MDK533\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\stats.o: D:\MDK533\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\stats.o: ..\Elab\3rd\LwIP\include\lwip/opt.h

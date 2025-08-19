@@ -1,0 +1,11 @@
+.\objects\elab_log.o: ..\Elab\common\elab_log.c
+.\objects\elab_log.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\elab_log.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\elab_log.o: ..\Elab\common\elab_log.h
+.\objects\elab_log.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\elab_log.o: ..\Elab\common\elab_assert.h
+.\objects\elab_log.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\elab_log.o: ..\Elab\common\elab_common.h
+.\objects\elab_log.o: ..\User\config\elab_config.h
+.\objects\elab_log.o: ..\Elab\common\../os/cmsis_os.h
+.\objects\elab_log.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stddef.h

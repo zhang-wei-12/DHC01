@@ -1,0 +1,14 @@
+.\objects\elab_can.o: ..\Elab\edf\normal\elab_can.c
+.\objects\elab_can.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\elab_can.o: ..\Elab\edf\normal\elab_can.h
+.\objects\elab_can.o: ..\Elab\edf\normal\../elab_device.h
+.\objects\elab_can.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\elab_can.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\elab_can.o: ..\Elab\edf\normal\../../common/elab_def.h
+.\objects\elab_can.o: ..\User\config\elab_config.h
+.\objects\elab_can.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\elab_can.o: ..\Elab\edf\normal\../../os/cmsis_os.h
+.\objects\elab_can.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\elab_can.o: ..\Elab\edf\normal\../../common/elab_assert.h
+.\objects\elab_can.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\elab_can.o: ..\Elab\edf\normal\../../common/elab_log.h

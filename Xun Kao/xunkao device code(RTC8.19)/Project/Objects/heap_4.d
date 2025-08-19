@@ -1,0 +1,13 @@
+.\objects\heap_4.o: ..\Elab\3rd\FreeRTOS\port\MemMang\heap_4.c
+.\objects\heap_4.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\heap_4.o: ..\Elab\3rd\FreeRTOS\include\FreeRTOS.h
+.\objects\heap_4.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\heap_4.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\heap_4.o: ..\User\config\FreeRTOSConfig.h
+.\objects\heap_4.o: ..\Elab\3rd\FreeRTOS\include\projdefs.h
+.\objects\heap_4.o: ..\Elab\3rd\FreeRTOS\include\portable.h
+.\objects\heap_4.o: ..\Elab\3rd\FreeRTOS\include\deprecated_definitions.h
+.\objects\heap_4.o: ..\Elab\3rd\FreeRTOS\port\RVDS\ARM_CM4F\portmacro.h
+.\objects\heap_4.o: ..\Elab\3rd\FreeRTOS\include\mpu_wrappers.h
+.\objects\heap_4.o: ..\Elab\3rd\FreeRTOS\include\task.h
+.\objects\heap_4.o: ..\Elab\3rd\FreeRTOS\include\list.h

@@ -1,0 +1,12 @@
+.\objects\port.o: ..\Elab\3rd\FreeRTOS\port\RVDS\ARM_CM4F\port.c
+.\objects\port.o: ..\Elab\3rd\FreeRTOS\include\FreeRTOS.h
+.\objects\port.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\port.o: D:\MDK533\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\port.o: ..\User\config\FreeRTOSConfig.h
+.\objects\port.o: ..\Elab\3rd\FreeRTOS\include\projdefs.h
+.\objects\port.o: ..\Elab\3rd\FreeRTOS\include\portable.h
+.\objects\port.o: ..\Elab\3rd\FreeRTOS\include\deprecated_definitions.h
+.\objects\port.o: ..\Elab\3rd\FreeRTOS\port\RVDS\ARM_CM4F\portmacro.h
+.\objects\port.o: ..\Elab\3rd\FreeRTOS\include\mpu_wrappers.h
+.\objects\port.o: ..\Elab\3rd\FreeRTOS\include\task.h
+.\objects\port.o: ..\Elab\3rd\FreeRTOS\include\list.h
